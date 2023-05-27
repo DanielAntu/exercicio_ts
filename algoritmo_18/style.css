@@ -1,0 +1,27 @@
+.container {
+    border: 2px solid #ccc;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.container h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+.container input {
+    width: 100%;
+    padding: 8px;
+    max-width: 560px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 17px;
+}
+
+.res {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
